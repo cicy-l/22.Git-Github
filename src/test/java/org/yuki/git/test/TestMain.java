@@ -7,6 +7,8 @@ public class TestMain {
         System.out.println("在hot-fix1上输出语句");
 
         System.out.println("在master分支上输出语句");
+        
+        System.out.println("加了一句话");
 
     }
 }
